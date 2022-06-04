@@ -14,8 +14,8 @@ from flask_gravatar import Gravatar
 import smtplib
 import os
 
-Email = "wassi.in786@gmail.com"
-password = "Asiya"
+Email = "abc@gmail.com"
+password = "123"
 
 
 def send_mail(name, email, phone, message):
